@@ -1,2 +1,2 @@
 # Assignment_M1_Overview_it
-this moduel is about overview of it which include basic trmilogics what is netwok,domin,www,softwer artitecter,sdlc,clint server networking,types of sofwer,& grafical represtion about dfd, floa chart,use keyas
+This module is about overview of IT which include the basic termilogies like what is network?,what is domin?,softwer architecture,softwer devlopment life cycle(sdlc),clint server networking,type of softwer and graphical representation about DFD,flowchart,use case.
